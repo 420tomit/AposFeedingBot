@@ -113,7 +113,7 @@ window.botList.push(new QuickBot());*/
 
 
 function AposBot() {
-    this.name = "AposFeedingBot " + aposFeedingBotVersion;
+    this.name = "Satanist" + aposFeedingBotVersion;
 
     this.lastMasterUpdate = Date.now();
     this.MasterLocation = Parse.Object.extend("MasterLocation");
